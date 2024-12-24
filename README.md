@@ -1,19 +1,20 @@
 <h3 align="center">
- Desafio Frontend
+ Infinity Technology
 </h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/status-concluído-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/status-concluído-green?style=for-the-badge"/>
 </p>
+
 <br>
 
 ## 🏹 Qual o objetivo do projeto?
 
-Este projeto tem como objetivo solucionar um desafio Frontend para o processo seletivo com uso do ReactJS.
+Este projeto tem como objetivo criar uma simples página com o uso do ReactJS para solucionar um desafio Frontend.
 
 ## 💻 Como usar?
 
-Será necessário fazer o download do respositório e executá-lo locamente, primeiro pelo comando ```bundle install``` e em seguida o comando ```npm start```.
+Será necessário fazer o download do repositório e executá-lo localmente, primeiro pelo comando `nom i` e em seguida o comando `npm start`.
 
 ## 🛠️ Ferramentas utilizadas?
 
