@@ -1,18 +1,11 @@
-// componentes
 import Publication from "./components/Publication";
 import Warning from "./components/Warning";
 import Statement from "./components/Statement";
-
-// imagens
-import Logo from "./logo.png";
-import Scroll from "./scroll.png";
-import Add from "./add.png";
-
-// arquivo json
+import Logo from "./assets/logo.png";
+import Scroll from "./assets/scroll.png";
+import Add from "./assets/add.png";
 import Data from "./data.json";
 import Management from "./management.json";
-
-// estilo
 import "./App.css";
 
 export default function App() {
